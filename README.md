@@ -18,7 +18,7 @@ The Writing Agent is an AI-powered research assistant designed to help users gat
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/A-Najjar/writing_agent.git
    cd writing_agent
    ```
 2. Install the required dependencies:
@@ -79,4 +79,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Acknowledgments
 - [LangChain](https://github.com/hwchase17/langchain) for the agent framework.
 - [Streamlit](https://streamlit.io/) for the web interface.
+
 - OpenAI and Anthropic for their powerful language models.
